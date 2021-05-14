@@ -1,0 +1,10 @@
+[
+  {
+    "package": "chorrrds",
+    "oncran": true
+  },
+  {
+    "package": "vagalumeR",
+    "oncran": true
+  }
+]

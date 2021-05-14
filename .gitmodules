@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "chorrrds"]
+	path = chorrrds
+	url = https://github.com/r-music/chorrrds
+	shallow = true
+	registered = true
+[submodule "vagalumeR"]
+	path = vagalumeR
+	url = https://github.com/r-music/vagalumer
+	shallow = true
+	registered = true
