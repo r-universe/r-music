@@ -1,8 +1,5 @@
 [
   {
-    "package": "chorrrds"
-  },
-  {
     "package": "vagalumeR",
     "oncran": true
   }
